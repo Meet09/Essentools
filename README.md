@@ -21,3 +21,11 @@ Super apps
 10. Mega : https://mega.nz/sync   ( Cloud Data syncing app )
 
 11 Simplenote : https://simplenote.com/   ( Note taking app )
+
+Essential tools from my ubuntu 
+
+1 Evince :  Document viewer supports extensions like PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt). Goto link for more information...
+ https://wiki.gnome.org/Apps/Evince
+
+2. Disks : A graphical user interface to show disks , its partitions and free space, much more. Check link below... 
+https://wiki.gnome.org/Apps/Disks
