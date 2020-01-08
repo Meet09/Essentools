@@ -29,3 +29,5 @@ Essential tools from my ubuntu
 
 2. Disks : A graphical user interface to show disks , its partitions and free space, much more. Check link below... 
 https://wiki.gnome.org/Apps/Disks
+3.Remmina : A remote desktop client , I think its open source and 
+4.RythmBox is very nice music player.
