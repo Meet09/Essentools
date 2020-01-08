@@ -1,0 +1,11 @@
+Site Audit:
+
+What is the production workflow for images ?
+Do you use hero images, thumbnails, icons, decorations ?
+What image formats are used on your site?
+Should some images be inlined or delivered as SVGs?
+
+Pro tip:
+	To get the maximum bang-for-your-buck when optimizing your site, focus on very large images. Pick the ten largest !
+
+In particular, resizing images in CSS or HTML can be a huge problem for big images. For example: you need a 1000x1000 px image file to display in a 500pxx500 px img element on a 2x screen. If you use a 1100x1100 px image, that's 100x100 = 10,000 wasted pixels !
